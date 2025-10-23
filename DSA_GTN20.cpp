@@ -1,3 +1,4 @@
+//Quản lí đặt lịch khám bệnh phòng khám
 #include <iostream>
 #include <ctime>
 #include <string>
@@ -649,4 +650,5 @@ int main() {
         }
     } while (chon != 0);
     return 0;
+
 }
